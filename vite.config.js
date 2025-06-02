@@ -1,3 +1,5 @@
 export default {
-  root: '.', // це за замовчуванням
+  define: {
+    global: {},
+  },
 };
